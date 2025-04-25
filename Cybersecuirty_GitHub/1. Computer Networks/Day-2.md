@@ -156,7 +156,7 @@
 | Cat 6a   | 10GBase-T  | 10 Gbps | 100 m    |
 | Cat 7    | 10GBase-T  | 10 Gbps | 100 m    |
 
-##Basic Data Unit Conversions
+## Basic Data Unit Conversions
 
 - 1 bit = Smallest unit of data (either 0 or 1)
 - 1 byte = 8 bits
@@ -214,6 +214,6 @@
 
 ---
 
-📅 **Progress Tracker**
-✅ Day 2 Complete – Networking Devices & Network Cabling
+📅 **Progress Tracker**  
+✅ Day 2 Complete – Networking Devices & Network Cabling  
 🔜 Day 3 Preview – OSI Model & TCP/IP Deep Dive
