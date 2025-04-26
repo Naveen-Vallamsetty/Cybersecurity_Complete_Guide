@@ -126,6 +126,6 @@ The OSI Model has **7 layers**, each handling specific functions for network com
 
 ---
 
-📅 Progress Tracker
-✅ Day 3 Complete – OSI Model In-Depth
-🔜 Day 4 – Planning a Network & TCP/IP Model In-Depth
+📅 Progress Tracker  
+✅ Day 3 Complete – OSI Model In-Depth  
+🔜 Day 4 – Planning a Network & TCP/IP Model In-Depth  
